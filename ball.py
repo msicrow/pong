@@ -1,7 +1,7 @@
 import pygame
 from random import randint, choice
 black = (0, 0, 0)
-png_files = ["ad.png", "aw.png", "Nb.png", "ss.png"]
+png_files = ["ad.png", "aw.png", "nb.png", "ss.png"]
 
 
 class Ball(pygame.sprite.Sprite):
